@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "1.0",
+  "description": "GitHub 콘텐츠 가져오기 테스트용 자체 형식. Salesforce 직접 업로드용 스키마가 아닙니다.",
+  "banners": [
+    {
+      "id": "retention-demo-001",
+      "promotionName": "다시 만나서 반가워요 — 샘플 프로모션",
+      "status": "active",
+      "imagePath": "promotion_retention_demo.png",
+      "imageUrl": "https://raw.githubusercontent.com/shkkkkk0987/contents/main/promotion_retention_demo.png",
+      "altText": "스마트폰과 선물 상자로 표현한 재방문 고객 대상 샘플 프로모션",
+      "headline": "다시 만나서 반가워요",
+      "description": "나에게 맞는 통신 혜택을 확인해보세요",
+      "ctaText": "혜택 확인하기",
+      "landingUrl": "/promotions.html",
+      "startsAt": "2026-11-05T00:00:00+09:00",
+      "endsAt": "2026-12-01T00:00:00+09:00",
+      "priority": 10,
+      "isSample": true
+    }
+  ]
+}
